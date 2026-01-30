@@ -6,9 +6,9 @@ export const SUPABASE_ANON_KEY = 'sb_publishable_YAuO6f3ymjNekQs7c2il8A_EUreMUGE
 export const RAMADAN_START_DATE = new Date('2026-02-18'); 
 export const TOTAL_DAYS = 30; 
 export const ADMIN_PASSWORD = 'EEIS'; 
-export const SOCIETY_EMAIL = 'Eeis@Hotmail.Co.Uk';
+export const SOCIETY_EMAIL = 'EEIS@Hotmail.CO.UK';
 export const NOTIFICATION_EMAIL = 'madrasah@eeis.co.uk';
-export const CARETAKER_NAME = 'Bhai Edoo';
+export const CARETAKER_NAME = 'Bhai Raheem Edoo';
 export const CARETAKER_PHONE = '0123456709'; 
 
 export const PRAYER_TIMES = [
