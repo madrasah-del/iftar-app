@@ -9,7 +9,7 @@ export const ADMIN_PASSWORD = 'EEIS';
 export const SOCIETY_EMAIL = 'Eeis@Hotmail.Co.Uk';
 export const NOTIFICATION_EMAIL = 'madrasah@eeis.co.uk';
 export const CARETAKER_NAME = 'Bhai Edoo';
-export const CARETAKER_PHONE = '07413922062'; 
+export const CARETAKER_PHONE = '0123456709'; 
 
 export const PRAYER_TIMES = [
   { day: 1, maghrib: "17:22", fajr: "05:28" }, { day: 2, maghrib: "17:24", fajr: "05:26" },
